@@ -2,7 +2,7 @@ public class firstTest {
 
     public static void main(String[] args) {
 
-        System.out.println("Rezume already 6");
+        System.out.println("Rezume already 7");
     }
 
 }
