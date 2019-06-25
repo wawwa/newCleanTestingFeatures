@@ -2,10 +2,7 @@ public class firstTest {
 
     public static void main(String[] args) {
 
-        System.out.println("Rezume already 331122");
-        System.out.println("Rezume already 331122");
-        System.out.println("Rezume already 331122");
-        System.out.println("Rezume already 331122");
+        System.out.println("Rezume already 564t55www");
     }
 
 }
